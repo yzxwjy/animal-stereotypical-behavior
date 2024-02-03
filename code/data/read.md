@@ -1,1 +1,1 @@
-
+These files include the center point coordinates of the predicted box in the video file, as well as the Euclidean distance between the center point coordinates of the predicted box in each frame and the first frame.
